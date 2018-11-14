@@ -1,0 +1,11 @@
+/Users/aluno/Projects/lista_objeto/lista_objeto/bin/Debug/netcoreapp2.1/lista_objeto.deps.json
+/Users/aluno/Projects/lista_objeto/lista_objeto/bin/Debug/netcoreapp2.1/lista_objeto.runtimeconfig.json
+/Users/aluno/Projects/lista_objeto/lista_objeto/bin/Debug/netcoreapp2.1/lista_objeto.runtimeconfig.dev.json
+/Users/aluno/Projects/lista_objeto/lista_objeto/bin/Debug/netcoreapp2.1/lista_objeto.dll
+/Users/aluno/Projects/lista_objeto/lista_objeto/bin/Debug/netcoreapp2.1/lista_objeto.pdb
+/Users/aluno/Projects/lista_objeto/lista_objeto/obj/Debug/netcoreapp2.1/lista_objeto.csprojAssemblyReference.cache
+/Users/aluno/Projects/lista_objeto/lista_objeto/obj/Debug/netcoreapp2.1/lista_objeto.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/lista_objeto/lista_objeto/obj/Debug/netcoreapp2.1/lista_objeto.AssemblyInfoInputs.cache
+/Users/aluno/Projects/lista_objeto/lista_objeto/obj/Debug/netcoreapp2.1/lista_objeto.AssemblyInfo.cs
+/Users/aluno/Projects/lista_objeto/lista_objeto/obj/Debug/netcoreapp2.1/lista_objeto.dll
+/Users/aluno/Projects/lista_objeto/lista_objeto/obj/Debug/netcoreapp2.1/lista_objeto.pdb
